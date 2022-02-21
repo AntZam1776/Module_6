@@ -1,6 +1,6 @@
 # Module_6
 
-# Housing Rental Analysis for San Francisco
+# Housing Rental Analysis for San Francisco 
 
 Exploring and building interactive plots of data with a focus on San Francisco neighborhoods pricing and rents from 2010-2016.
 
